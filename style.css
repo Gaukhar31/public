@@ -1,0 +1,149 @@
+body{
+    background-color: #eee8e0;
+}
+h1{
+    background-image: url(https://cdn.healthcare.se/wp-content/uploads/sites/64/2014/09/rosacea-kaffe.png);
+    margin-top: 30px;
+    color: #53363a;
+    font-family: 'Covered By Your Grace', cursive;
+    text-align: center;
+    background-image: center;
+    padding: 100px;
+    background-size: cover;
+    background-position: center;
+    font-size: 70px;
+}
+h3{
+    font-family: 'Raleway';
+    font-weight: 100;
+    text-align: center;
+    font-style: normal;
+    font-size: x-large;
+    color:#53363a;
+}
+p{
+    text-align: center;
+    color: #a19d95;
+}
+.roasting h3{
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+.roasting p{
+    color: #666;
+    line-height: 1,5;
+}
+
+.spectrum div{
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 2 px 5 px rgba(0, 0, 0, 0.1);
+}
+
+ol li{
+    color: #e3bb97;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 1px;
+    text-decoration: none;
+    list-style:none;
+}
+
+a{
+    color: #305940;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.container{
+    padding: 70px;
+    background-color: #efe92e;
+}
+
+.green{
+    background-color: #99c39a;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white
+}
+
+.light{
+    background-color: #a96342;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white
+}
+
+.city{
+    background-color: #96582e;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white
+}
+
+.vienna{
+    background-color: #af4848;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white
+}
+
+.italian{
+    background-color: #191919;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white
+}
+
+h5{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+}
+
+h4{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+h2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    color: #e3bb97;
+}
+hr{
+    color:#f5dac1;
+}
+.roasting{
+    background-color: white;
+    padding:100;
+    color:#98938e;
+    font-size: 20px;
+}
